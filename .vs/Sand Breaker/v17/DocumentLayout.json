@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\bonusscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\bonusscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\defeatscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\defeatscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\victoryscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\victoryscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\danger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\danger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\services\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:services\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\scenes\\startingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:scenes\\startingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\gameobjects\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:gameobjects\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\levels\\level1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:levels\\level1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\ui\\bonusbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:ui\\bonusbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|d:\\formation gamingcampus\\module 2 c# monogame\\sand breaker\\ui\\textobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF9051E-0109-4169-AA98-574D6D8A0918}|Sand Breaker.csproj|solutionrelative:ui\\textobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\EventBus.cs",
+              "RelativeDocumentMoniker": "EventBus.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\EventBus.cs",
+              "RelativeToolTip": "EventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:28:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameController.cs",
+              "RelativeDocumentMoniker": "GameController.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameController.cs",
+              "RelativeToolTip": "GameController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:14:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\GameScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\GameScene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\GameScene.cs",
+              "RelativeToolTip": "Scenes\\GameScene.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:48:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BonusScene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\BonusScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\BonusScene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\BonusScene.cs",
+              "RelativeToolTip": "Scenes\\BonusScene.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAIwJkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:39:35.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TextObject.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\UI\\TextObject.cs",
+              "RelativeDocumentMoniker": "UI\\TextObject.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\UI\\TextObject.cs",
+              "RelativeToolTip": "UI\\TextObject.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:04:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefeatScene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\DefeatScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\DefeatScene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\DefeatScene.cs",
+              "RelativeToolTip": "Scenes\\DefeatScene.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:39:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Scenes\\SceneManager.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\SceneManager.cs",
+              "RelativeToolTip": "Scenes\\SceneManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:14:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Paddle.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Paddle.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Paddle.cs",
+              "RelativeToolTip": "GameObjects\\Paddle.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:58:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Sprite.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Sprite.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Sprite.cs",
+              "RelativeToolTip": "GameObjects\\Sprite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:06:42.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Ball.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Ball.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Ball.cs",
+              "RelativeToolTip": "GameObjects\\Ball.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:47:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VictoryScene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\VictoryScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\VictoryScene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\VictoryScene.cs",
+              "RelativeToolTip": "Scenes\\VictoryScene.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:11:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartingScene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\StartingScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\StartingScene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\StartingScene.cs",
+              "RelativeToolTip": "Scenes\\StartingScene.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:12:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Danger.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Danger.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Danger.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Danger.cs",
+              "RelativeToolTip": "GameObjects\\Danger.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:13:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Services\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceLocator.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Services\\ServiceLocator.cs",
+              "RelativeToolTip": "Services\\ServiceLocator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:13:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:43:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "Scenes\\Scene.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Scenes\\Scene.cs",
+              "RelativeToolTip": "Scenes\\Scene.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:32:22.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Obstacle.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Obstacle.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Obstacle.cs",
+              "RelativeToolTip": "GameObjects\\Obstacle.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:06:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Object.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Object.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Object.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\GameObjects\\Object.cs",
+              "RelativeToolTip": "GameObjects\\Object.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:06:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BonusButton.cs",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\UI\\BonusButton.cs",
+              "RelativeDocumentMoniker": "UI\\BonusButton.cs",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\UI\\BonusButton.cs",
+              "RelativeToolTip": "UI\\BonusButton.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:57:14.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Level1.txt",
+              "DocumentMoniker": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Levels\\Level1.txt",
+              "RelativeDocumentMoniker": "Levels\\Level1.txt",
+              "ToolTip": "D:\\Formation Gamingcampus\\Module 2 C# monogame\\Sand Breaker\\Levels\\Level1.txt",
+              "RelativeToolTip": "Levels\\Level1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-05T15:19:09.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
