@@ -14,11 +14,11 @@ namespace Sand_Breaker.GameObjects
 {
     public class Paddle : Sprite
     {
-        public static Vector2 defaultSpeed { get; private set; } = new Vector2(500f, 80f);
-        public static Vector2 absoluteSpeed = defaultSpeed;
-        public static float defaultScale { get; private set; } = 0.12f;
-        public static float scale { get; private set; } = defaultScale;
-        private static float lerp_amount = 0.2f;
+        public static Vector2 DefaultSpeed { get; private set; } = new Vector2(500f, 80f);
+        public static Vector2 AbsoluteSpeed = DefaultSpeed;
+        public static float DefaultScale { get; private set; } = 0.12f;
+        public static float Scale { get; private set; } = DefaultScale;
+        private static float Lerp_amount = 0.2f;
 
         private int nbFrames = 6;
         private float animationDuration = 0.3f;
@@ -61,24 +61,24 @@ namespace Sand_Breaker.GameObjects
         }
 
 
-        public Paddle(Scene rootScene) : this(rootScene, Paddle.scale)
+        public Paddle(Scene rootScene) : this(rootScene, Paddle.Scale)
         {
         }
 
 
         public static void GainBonusSpeed(Vector2 amount)
         {
-            absoluteSpeed += amount;
+            AbsoluteSpeed += amount;
         }
         public static void GainBonusSize(float scale)
         {
-            scale *= scale;
+            Paddle.Scale *= scale;
         }
 
         public static void RemoveAllBonus()
         {
-            absoluteSpeed = defaultSpeed;
-            scale = defaultScale;
+            AbsoluteSpeed = DefaultSpeed;
+            Scale = DefaultScale;
         }
 
 
@@ -93,15 +93,15 @@ namespace Sand_Breaker.GameObjects
             if (IsActive)
             {
                 if (keyboard.KeyIsPressed(Keys.Up))
-                    Speed.Y = -absoluteSpeed.Y;
+                    Speed.Y = -AbsoluteSpeed.Y;
                 else if (keyboard.KeyIsPressed(Keys.Down))
-                    Speed.Y = absoluteSpeed.Y;
+                    Speed.Y = AbsoluteSpeed.Y;
                 else Speed.Y = 0;
 
                 if(keyboard.KeyIsPressed(Keys.Left))
-                    Speed.X = -absoluteSpeed.X;
+                    Speed.X = -AbsoluteSpeed.X;
                 else if(keyboard.KeyIsPressed(Keys.Right))
-                    Speed.X = absoluteSpeed.X;
+                    Speed.X = AbsoluteSpeed.X;
                 else Speed.X = 0;
 
                 MovementBounds.Height = (int)danger.Collider.Top - MovementBounds.Top;
@@ -119,7 +119,7 @@ namespace Sand_Breaker.GameObjects
         {
             targetPosition += Speed * dt;
             targetPosition = Vector2.Clamp(targetPosition, MovementBounds.Location.ToVector2() + offset, (MovementBounds.Location + MovementBounds.Size).ToVector2() + offset - size);
-            if(dt>0) position = Vector2.Lerp(position, targetPosition, lerp_amount);
+            if(dt>0) position = Vector2.Lerp(position, targetPosition, Lerp_amount);
         }
 
         public void AnimateClaw(float dt)

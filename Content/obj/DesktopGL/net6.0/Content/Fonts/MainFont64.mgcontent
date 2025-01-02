@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Fonts/MainFont64.spritefont</SourceFile>
-  <SourceTime>2024-06-28T15:43:48.5830818+02:00</SourceTime>
-  <DestFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/bin/DesktopGL/Content/Fonts/MainFont64.xnb</DestFile>
-  <DestTime>2024-06-28T15:44:45.6883662+02:00</DestTime>
+  <SourceFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Fonts/MainFont64.spritefont</SourceFile>
+  <SourceTime>2025-01-02T16:29:25.0472177+01:00</SourceTime>
+  <DestFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/bin/DesktopGL/Content/Fonts/MainFont64.xnb</DestFile>
+  <DestTime>2025-01-02T16:35:28.3678179+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

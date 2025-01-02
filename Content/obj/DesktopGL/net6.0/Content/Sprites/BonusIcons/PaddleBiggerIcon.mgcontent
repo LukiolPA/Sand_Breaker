@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/PaddleBiggerIcon.png</SourceFile>
-  <SourceTime>2024-06-28T17:52:55.0569635+02:00</SourceTime>
-  <DestFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/bin/DesktopGL/Content/Sprites/BonusIcons/PaddleBiggerIcon.xnb</DestFile>
-  <DestTime>2024-06-28T18:03:27.7644179+02:00</DestTime>
+  <SourceFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/PaddleBiggerIcon.png</SourceFile>
+  <SourceTime>2025-01-02T16:29:25.0571906+01:00</SourceTime>
+  <DestFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/bin/DesktopGL/Content/Sprites/BonusIcons/PaddleBiggerIcon.xnb</DestFile>
+  <DestTime>2025-01-02T16:35:28.6394021+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

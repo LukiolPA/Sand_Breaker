@@ -4,26 +4,26 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Fonts/MainFont32.spritefont</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Fonts/MainFont48.spritefont</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Fonts/MainFont64.spritefont</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Beach.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/BallBiggerIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/BallFasterIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/Bonus.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/BonusBackground.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/MoreDamageIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/MoreLuckIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/MoreShellsIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/PaddleBiggerIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/BonusIcons/PaddleFasterIcon.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Crabe.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Crustacean.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Danger.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/SandTexture.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/SandWall.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Seashell.png</File>
-    <File>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Wall.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Fonts/MainFont32.spritefont</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Fonts/MainFont48.spritefont</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Fonts/MainFont64.spritefont</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Beach.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/BallBiggerIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/BallFasterIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/Bonus.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/BonusBackground.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/MoreDamageIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/MoreLuckIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/MoreShellsIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/PaddleBiggerIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/BonusIcons/PaddleFasterIcon.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Crabe.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Crustacean.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Danger.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/SandTexture.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/SandWall.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Seashell.png</File>
+    <File>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Wall.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

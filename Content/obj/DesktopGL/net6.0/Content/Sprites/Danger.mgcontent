@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/Sprites/Danger.png</SourceFile>
-  <SourceTime>2024-06-28T16:08:35.3230382+02:00</SourceTime>
-  <DestFile>D:/Formation Gamingcampus/Module 2 C# monogame/Sand Breaker/Content/bin/DesktopGL/Content/Sprites/Danger.xnb</DestFile>
-  <DestTime>2024-06-28T16:37:24.0115367+02:00</DestTime>
+  <SourceFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/Sprites/Danger.png</SourceFile>
+  <SourceTime>2025-01-02T16:29:25.0700117+01:00</SourceTime>
+  <DestFile>C:/Users/locat/OneDrive/Bureau/Sand_Breaker/Content/bin/DesktopGL/Content/Sprites/Danger.xnb</DestFile>
+  <DestTime>2025-01-02T16:35:29.4645971+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
