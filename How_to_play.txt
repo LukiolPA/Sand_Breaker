@@ -1,0 +1,3 @@
+Go to Windows_release folder and launch "Sand Breaker.exe"
+Use arrows to move and spacebar to select a bonus.
+Reach the exit before getting caught by the tide.
